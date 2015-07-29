@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="thinkandroid-1.1-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/thinkandroid-1.1-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/thinkandroid-1.1-bin.jar!/" />
+    </SOURCES>
+  </library>
+</component>

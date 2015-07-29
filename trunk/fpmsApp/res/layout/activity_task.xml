@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<!--标题  -->
+ <!--标题  -->
+			<RelativeLayout
+			        android:id="@+id/title_task"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_alignParentTop="true"
+			        android:background="@drawable/head_bg" >
+			        <TextView
+			            style="@style/style_title"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_centerHorizontal="true"
+			     	    android:layout_centerVertical="true"
+			            android:text="任务列表" />
+			        <Spinner 
+			            android:layout_alignParentRight="true"
+						android:id="@+id/spn_active_user"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content" />
+			 </RelativeLayout>
+			<LinearLayout android:id="@+id/title_act_task"
+			    android:orientation="horizontal"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/title_task"
+			    >
+				<include layout="@layout/menu_top_task"/>  
+			</LinearLayout>
+<!-- 内容 -->
+<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/title_act_task"
+    >
+
+	<ListView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/taskListView"/>
+</LinearLayout>
+<!-- 底部菜单 -->
+<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true"
+	>
+   <include layout="@layout/menu_bottom"/>  
+</LinearLayout>
+</RelativeLayout>

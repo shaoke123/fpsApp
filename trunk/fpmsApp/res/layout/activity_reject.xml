@@ -1,0 +1,285 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".RejectActivity">
+    <!--标题  -->
+
+    <RelativeLayout
+            android:id="@+id/title_rejectManager"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/head_bg" >
+        <TextView
+                style="@style/style_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="驳回管理" />
+       </RelativeLayout>
+
+    <LinearLayout
+            android:layout_below="@id/title_rejectManager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="总编号:"/>
+
+            <TextView
+                    android:id="@+id/text_total_counter"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="客户名称:"/>
+
+            <TextView
+                    android:id="@+id/text_customer_name"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="货物名称:"/>
+
+            <TextView
+                    android:id="@+id/text_product_name"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="货物型号:"/>
+
+            <TextView
+                    android:id="@+id/text_product_type"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="返工工序:"/>
+
+            <Spinner
+                    android:id="@+id/spinner_re_process"
+                    android:layout_width="120dp"
+                    android:layout_height="35dp"
+                   />
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="员工编号:"/>
+
+            <TextView
+                    android:id="@+id/text_customer_num"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="返工人员:"/>
+
+            <TextView
+                    android:id="@+id/text_re_process_employee"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="工序单价:"/>
+
+            <TextView
+                    android:id="@+id/text_process_price"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="bottom"
+                android:orientation="horizontal" >
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="自编号:"/>
+
+            <TextView
+                    android:id="@+id/text_self_num"
+                    android:layout_width="120dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text="A1F880"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:id="@+id/ll_reject_reason"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="#f0ffff"
+                    android:gravity="right"
+                    android:text="驳回原因:"/>
+
+            <TextView
+                    android:id="@+id/text_reject_reason1"
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text=""/>
+
+            <TextView
+                    android:id="@+id/text_reject_reason2"
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/stroke"
+                    android:text=""/>
+
+            <Button
+                    android:id="@+id/button_select"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/button_selector"
+                    android:text="选择"/>
+
+            <Button
+                    android:id="@+id/button_clear"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/button_selector"
+                    android:text="清空"/>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <Button
+                android:id="@+id/button_confirm"
+                android:text="确定"
+                android:background="@drawable/button_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/button_cancel"
+                android:text="取消"
+                android:background="@drawable/button_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</RelativeLayout>

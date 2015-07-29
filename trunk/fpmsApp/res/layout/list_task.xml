@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:baselineAligned="false"
+    android:orientation="horizontal" 
+    >
+
+	<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_allNumber"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_sofaName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+
+			<LinearLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_sofaModel"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_goodsName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+			 <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="1dip" >
+
+           	<TextView android:id="@+id/tv_oneProceName"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:singleLine="true"
+				android:gravity="center_horizontal"
+				android:ellipsize="marquee" />
+           	</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_proceQuantity"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+		  <TextView android:id="@+id/tv_proceTheoryTime"
+					android:layout_width="fill_parent" 
+					    android:width="10dp"
+					android:layout_height="wrap_content"
+			        android:singleLine="true"
+					android:gravity="right"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/specialModel"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_customerMark"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:gravity="center_horizontal"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+
+			<LinearLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="5dp" >
+
+			<Button android:id="@+id/start_btn"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:text="开始"
+				android:background="@drawable/button_selector"/>
+        </LinearLayout>
+</LinearLayout>

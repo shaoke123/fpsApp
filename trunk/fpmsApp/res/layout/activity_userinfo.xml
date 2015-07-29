@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" >
+
+ <!--标题  -->
+ 
+			<RelativeLayout
+			        android:id="@+id/title_userinfo"
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_alignParentTop="true"
+			        android:background="@drawable/head_bg" >
+			        <TextView
+			            style="@style/style_title"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_centerHorizontal="true"
+			     	    android:layout_centerVertical="true"
+			            android:text="用户登录" />
+			        <Spinner 
+			            android:layout_alignParentRight="true"
+						android:id="@+id/spn_active_user_lg"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content" />
+			 </RelativeLayout>
+<!-- 登录输入栏 -->
+            <LinearLayout android:id="@+id/title_act_userinfo"
+			    android:orientation="vertical"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/title_userinfo"
+			    android:gravity="center"
+			    android:paddingTop="100dp"> 
+
+                <EditText
+                    android:id="@+id/et_username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:drawable/editbox_background"
+                    
+                     android:maxLength="10"
+                    android:hint="输入员工编号" 
+                    android:width="400dip">
+                </EditText>
+	                <EditText
+	                    android:id="@+id/et_password"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:background="@android:drawable/editbox_background"
+	                    android:hint="输入密码"
+	                    android:width="400dip"
+	                    android:maxLength="32"
+	                    android:digits="1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	                    android:inputType="textPassword">
+	                </EditText>
+	                <LinearLayout    
+                    android:orientation="horizontal" 
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+				    android:gravity="center">
+	                <Button
+                        android:id="@+id/btn_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:text="登录"
+                        android:width="200dip"/>
+	                <Button
+                        android:id="@+id/btn_exit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:text="退出"
+                        android:width="200dip"/>
+	                </LinearLayout>
+                   </LinearLayout>
+                   <LinearLayout    
+                    android:orientation="horizontal" 
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+					android:layout_alignParentBottom="true">
+		 		  <include layout="@layout/menu_bottom"/>  
+				</LinearLayout>
+    </RelativeLayout>

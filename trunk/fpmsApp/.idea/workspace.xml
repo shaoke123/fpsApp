@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: cn.beginsoft.fpmsapp" />
+        <option name="packageNamePattern" value="cn.beginsoft.fpmsapp" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: cn.beginsoft.fpmsapp" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="3fe02884-edc0-457c-91d4-7a1d9d713879" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fpmsApp.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/cn/beginsoft/fpmsapp/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/cn/beginsoft/fpmsapp/R.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.log" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\preview.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.cdt.core\.log" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.cdt.make.core\specs.c" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.debug.ui\launchConfigurationHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\indexNamesMap.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.launching\.install.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.ui.refactoring\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.internet.cache\cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.sse.ui\dialog_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.xml.core\default_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.xml.core\system_catalog.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.debug.core\.launches" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.lock" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.safetable" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\4\18" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root\4.tree" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/common/ActiveUser.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\AnalogClock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/ArrayWheelAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\AutoCompleteTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base/BaseActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base/BaseActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base/BaseActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base/BaseActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Button.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\CalendarView.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\CheckBox.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\CheckedTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Date.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\DigitalClock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/common/EProceState.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Email.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ExpandableListView.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/JudgeDate.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\LargeText.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LinkQualityActivity$DataAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LinkQualityActivity$DataAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LinkQualityActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ListView.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LoginActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LoginActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LoginActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LoginActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/LoginActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$MySimpleAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity$OnItemClickListenerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\MediumText.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\MultiAutoCompleteTextView.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\MultilineText.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/NoticeDetailActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/NoticeDetailActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Number.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\NumberDecimal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\NumberSigned.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/NumericWheelAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/OnWheelChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/OnWheelScrollListener.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Password.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\PasswordNumeric.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\PersonName.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Phone.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\PlainText.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\PostalAddress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/vo/Product.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ProgressBarHorizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ProgressBarLarge.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ProgressBarNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ProgressBarSmall.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\QuickContactBadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/R.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\RadioButton.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\RadioGroup.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\RatingBar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/RejectActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/common/RequestURL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/ScreenInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\SeekBar.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\SmallButton.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\SmallText.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Switch.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\TabHost.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\TabWidget.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$MySimpleAdapter$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$MySimpleAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity$MySimpleAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskReceivableActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$MySimpleAdapter$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$MySimpleAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity$MySimpleAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp/TaskStartingActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\TextView.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\Time.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ToggleButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/vo/UserInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/vo/UserSpn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelMain$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelMain$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time/WheelView.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ZoomButton.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone\ZoomControls.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.debug.core\.launches\andriod.launch" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\dexedLibs\android-support-v4-8b3c442d02ac60e31e89b265d32c2280.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\dexedLibs\android-support-v4-bcbbf530d074873c6511686c5e135b5b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp/base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/cn/beginsoft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/cn" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/common" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\dexedLibs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-hdpi" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-mdpi" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-xhdpi" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-xxhdpi" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\fpmsApp.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/cn/beginsoft/fpmsapp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/fpmsapp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/cn/beginsoft/fpmsapp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\head_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\img_search.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.cdt.core" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.debug.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.cdt.make.core" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.debug.core" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.debug.ui" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.e4.workbench" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.launching" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.ui" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.ui.refactoring" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ui.ide" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ui.workbench" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.internet.cache" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.sse.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.sse.ui" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.wst.xml.core" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-apptheme-37inwvganexusone" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\4\18\refactorings.history" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2015\4\18\refactorings.index" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\tabline.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\dexedLibs\thinkandroid-1.1-bin-0081d3b255ad09beaebdb10fce912f78.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\dexedLibs\thinkandroid-1.1-bin-f5f8374c27be85c30cf5abea0075ab5e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget/time" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\version.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/org/beginsoft/vo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/widget" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\wp_small.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\wp_small_down.9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\bin\res\crunch\drawable\wp_small_over.9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LinkQualityActivity.java" afterPath="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LinkQualityActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectActivity.java" afterPath="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectActivity.java" />
+    </list>
+    <ignored path="fpmsApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/classes/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fpmsApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LinkQualityActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LinkQualityActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.4699739" vertical-offset="4027" max-vertical-offset="5598">
+              <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
+              <folding>
+                <marker date="1433312442971" expanded="true" signature="997:1013" placeholder="&lt;~&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskReceivableActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/TaskReceivableActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4824" max-vertical-offset="5526">
+              <caret line="304" column="66" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#4270#4271#0" expanded="false" />
+                <element signature="e#4303#4304#0" expanded="false" />
+                <element signature="e#7924#7925#0" expanded="false" />
+                <element signature="e#7973#7974#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_link_quality.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_link_quality.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="1008">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RejectActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2756" max-vertical-offset="5976">
+              <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#997#1018#0" expanded="true" />
+                <element signature="e#7116#7502#0" expanded="true" />
+                <element signature="e#7501#7502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QualityProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/beginsoft/vo/QualityProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1026" max-vertical-offset="2088">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding>
+                <element signature="e#676#677#0" expanded="false" />
+                <element signature="e#701#702#0" expanded="false" />
+                <element signature="e#737#738#0" expanded="false" />
+                <element signature="e#765#766#0" expanded="false" />
+                <element signature="e#804#805#0" expanded="false" />
+                <element signature="e#839#840#0" expanded="false" />
+                <element signature="e#895#896#0" expanded="false" />
+                <element signature="e#943#944#0" expanded="false" />
+                <element signature="e#979#980#0" expanded="false" />
+                <element signature="e#1011#1012#0" expanded="false" />
+                <element signature="e#1061#1062#0" expanded="false" />
+                <element signature="e#1103#1104#0" expanded="false" />
+                <element signature="e#1138#1139#0" expanded="false" />
+                <element signature="e#1169#1170#0" expanded="false" />
+                <element signature="e#1217#1218#0" expanded="false" />
+                <element signature="e#1257#1258#0" expanded="false" />
+                <element signature="e#1292#1293#0" expanded="false" />
+                <element signature="e#1323#1324#0" expanded="false" />
+                <element signature="e#1371#1372#0" expanded="false" />
+                <element signature="e#1411#1412#0" expanded="false" />
+                <element signature="e#1444#1445#0" expanded="false" />
+                <element signature="e#1473#1474#0" expanded="false" />
+                <element signature="e#1517#1518#0" expanded="false" />
+                <element signature="e#1553#1554#0" expanded="false" />
+                <element signature="e#1590#1591#0" expanded="false" />
+                <element signature="e#1623#1624#0" expanded="false" />
+                <element signature="e#1675#1676#0" expanded="false" />
+                <element signature="e#1719#1720#0" expanded="false" />
+                <element signature="e#1754#1755#0" expanded="false" />
+                <element signature="e#1785#1786#0" expanded="false" />
+                <element signature="e#1833#1834#0" expanded="false" />
+                <element signature="e#1873#1874#0" expanded="false" />
+                <element signature="e#1909#1910#0" expanded="false" />
+                <element signature="e#1941#1942#0" expanded="false" />
+                <element signature="e#1991#1992#0" expanded="false" />
+                <element signature="e#2033#2034#0" expanded="false" />
+                <element signature="e#2069#2070#0" expanded="false" />
+                <element signature="e#2101#2102#0" expanded="false" />
+                <element signature="e#2151#2152#0" expanded="false" />
+                <element signature="e#2193#2194#0" expanded="false" />
+                <element signature="e#2234#2235#0" expanded="false" />
+                <element signature="e#2271#2272#0" expanded="false" />
+                <element signature="e#2331#2332#0" expanded="false" />
+                <element signature="e#2383#2384#0" expanded="false" />
+                <element signature="e#2425#2426#0" expanded="false" />
+                <element signature="e#2463#2464#0" expanded="false" />
+                <element signature="e#2525#2526#0" expanded="false" />
+                <element signature="e#2579#2580#0" expanded="false" />
+                <element signature="e#2619#2620#0" expanded="false" />
+                <element signature="e#2655#2656#0" expanded="false" />
+                <element signature="e#2713#2714#0" expanded="false" />
+                <element signature="e#2763#2764#0" expanded="false" />
+                <element signature="e#2802#2803#0" expanded="false" />
+                <element signature="e#2837#2838#0" expanded="false" />
+                <element signature="e#2893#2894#0" expanded="false" />
+                <element signature="e#2941#2942#0" expanded="false" />
+                <element signature="e#2981#2982#0" expanded="false" />
+                <element signature="e#3017#3018#0" expanded="false" />
+                <element signature="e#3075#3076#0" expanded="false" />
+                <element signature="e#3125#3126#0" expanded="false" />
+                <element signature="e#3164#3165#0" expanded="false" />
+                <element signature="e#3199#3200#0" expanded="false" />
+                <element signature="e#3255#3256#0" expanded="false" />
+                <element signature="e#3303#3304#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestURL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/RequestURL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="576">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EProceState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/EProceState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="504">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding>
+                <element signature="e#259#260#0" expanded="false" />
+                <element signature="e#276#277#0" expanded="false" />
+                <element signature="e#310#311#0" expanded="false" />
+                <element signature="e#331#332#0" expanded="false" />
+                <element signature="e#359#360#0" expanded="false" />
+                <element signature="e#378#379#0" expanded="false" />
+                <element signature="e#416#417#0" expanded="false" />
+                <element signature="e#441#442#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="854" max-vertical-offset="1332">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_reject.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_reject.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2286" max-vertical-offset="5220">
+              <caret line="127" column="48" selection-start-line="127" selection-start-column="48" selection-end-line="127" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/menu_bottom.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_link_quality.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/list_link_quality.xml" />
+        <option value="$PROJECT_DIR$/libs/thinkandroid-1.1-bin.jar!/com/ta/util/http/AsyncHttpClient.java" />
+        <option value="$PROJECT_DIR$/src/org/beginsoft/common/JsonAssember.java" />
+        <option value="$PROJECT_DIR$/res/layout/spinner_reprocess.xml" />
+        <option value="$PROJECT_DIR$/src/org/beginsoft/vo/Reprocess.java" />
+        <option value="$PROJECT_DIR$/src/org/beginsoft/vo/QualityProduct.java" />
+        <option value="$PROJECT_DIR$/res/layout/activity_reject.xml" />
+        <option value="$PROJECT_DIR$/src/org/beginsoft/common/RequestURL.java" />
+        <option value="$PROJECT_DIR$/src/org/beginsoft/common/EProceState.java" />
+        <option value="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LinkQualityActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 19 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beginsoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beginsoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beginsoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="time" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fpmsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Frame/android_3.6.5/android_demo" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\res\layout" />
+      <recent name="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.fpmsApp">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/libs/fastjson-1.1.34.android.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="fpmsApp" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="fpmsApp" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.fpmsApp" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp" />
+          <option name="myCopyRoot" value="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp" />
+          <option name="myCopyRoot" value="E:\JAVA\Android\DEMO\fpsApp\trunk\fpmsApp" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe02884-edc0-457c-91d4-7a1d9d713879" name="Default" comment="" />
+      <created>1431073359401</created>
+      <option name="number" value="Default" />
+      <updated>1431073359401</updated>
+      <workItem from="1431073367155" duration="4579000" />
+      <workItem from="1431323072961" duration="13932000" />
+      <workItem from="1431392813934" duration="792000" />
+      <workItem from="1432606087395" duration="3856000" />
+      <workItem from="1432688829577" duration="619000" />
+      <workItem from="1432705630843" duration="15906000" />
+      <workItem from="1432778341233" duration="3105000" />
+      <workItem from="1432876317586" duration="3017000" />
+      <workItem from="1433120623320" duration="5608000" />
+      <workItem from="1433213023158" duration="23502000" />
+      <workItem from="1433293238165" duration="3115000" />
+      <workItem from="1433297428329" duration="1062000" />
+      <workItem from="1433298587309" duration="3683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82776000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38488576" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25212947" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34582624" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2589438" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22487223" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22671354" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38488576" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32367972" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34582624" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36456558" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2526475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22671354" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/Changhong/Project/TVhelper/trunk/tv_assistant/TVhelper/main/main.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/NoticeDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="882">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog_reject.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.67742" vertical-offset="1747" max-vertical-offset="2160">
+          <caret line="112" column="31" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_userinfo.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.58064514" vertical-offset="108" max-vertical-offset="1656">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/button_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/listview_selector.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="365">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/wp_small_over.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/wp_small_down.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/wp_small.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/wheel_val.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/wheel_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/tabline.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/head_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/img_search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/reject.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/TaskStartingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="877" max-vertical-offset="5364">
+          <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/ActiveUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3584" max-vertical-offset="5256">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/thinkandroid-1.1-bin.jar!/com/ta/util/http/AsyncHttpResponseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="344" max-vertical-offset="3420">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/platforms/android-19/android.jar!/org/apache/http/message/HeaderGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.96" vertical-offset="2" max-vertical-offset="882">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/platforms/android-19/android.jar!/org/apache/http/message/AbstractHttpMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.64" vertical-offset="136" max-vertical-offset="1008">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/platforms/android-19/android.jar!/org/apache/http/client/methods/HttpRequestBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.48" vertical-offset="14" max-vertical-offset="774">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/util/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5420" max-vertical-offset="5850">
+          <caret line="347" column="0" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/com/android/internal/os/AndroidPrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="738">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/com/android/internal/os/LoggingPrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4668" max-vertical-offset="5418">
+          <caret line="316" column="0" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16602" max-vertical-offset="35352">
+          <caret line="975" column="0" selection-start-line="975" selection-start-column="0" selection-end-line="975" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/platforms/android-19/android.jar!/org/apache/http/client/methods/HttpGet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.32" vertical-offset="101" max-vertical-offset="450">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/thinkandroid-1.1-bin.jar!/com/ta/util/http/AsyncHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4956" max-vertical-offset="14130">
+          <caret line="374" column="0" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/JsonAssember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectReasonActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3204" max-vertical-offset="5958">
+          <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/fpmsapp/base/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1098">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/list_link_quality.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1275167" vertical-offset="0" max-vertical-offset="846">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38690" max-vertical-offset="86724">
+          <caret line="2379" column="35" selection-start-line="2379" selection-start-column="35" selection-end-line="2379" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/spinner_reprocess.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="360">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="2790">
+          <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/vo/MassQus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29032257" vertical-offset="0" max-vertical-offset="558">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/vo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032258064" vertical-offset="360" max-vertical-offset="936">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/vo/Reprocess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2580645" vertical-offset="0" max-vertical-offset="810">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/app/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.933945" vertical-offset="17792" max-vertical-offset="30726">
+          <caret line="1114" column="9" selection-start-line="1114" selection-start-column="9" selection-end-line="1114" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/com/android/internal/os/ZygoteInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16585366" vertical-offset="12820" max-vertical-offset="13554">
+          <caret line="760" column="7" selection-start-line="760" selection-start-column="7" selection-end-line="760" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_reject.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2286" max-vertical-offset="5220">
+          <caret line="127" column="48" selection-start-line="127" selection-start-column="48" selection-end-line="127" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/RequestURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="576">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/TaskReceivableActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4468" max-vertical-offset="5436">
+          <caret line="304" column="66" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4270#4271#0" expanded="false" />
+            <element signature="e#4303#4304#0" expanded="false" />
+            <element signature="e#7924#7925#0" expanded="false" />
+            <element signature="e#7973#7974#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/common/EProceState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#259#260#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#310#311#0" expanded="false" />
+            <element signature="e#331#332#0" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#378#379#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="854" max-vertical-offset="1332">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_link_quality.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="1008">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/beginsoft/vo/QualityProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2124">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#701#702#0" expanded="false" />
+            <element signature="e#737#738#0" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#839#840#0" expanded="false" />
+            <element signature="e#895#896#0" expanded="false" />
+            <element signature="e#943#944#0" expanded="false" />
+            <element signature="e#979#980#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1061#1062#0" expanded="false" />
+            <element signature="e#1103#1104#0" expanded="false" />
+            <element signature="e#1138#1139#0" expanded="false" />
+            <element signature="e#1169#1170#0" expanded="false" />
+            <element signature="e#1217#1218#0" expanded="false" />
+            <element signature="e#1257#1258#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1323#1324#0" expanded="false" />
+            <element signature="e#1371#1372#0" expanded="false" />
+            <element signature="e#1411#1412#0" expanded="false" />
+            <element signature="e#1444#1445#0" expanded="false" />
+            <element signature="e#1473#1474#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1553#1554#0" expanded="false" />
+            <element signature="e#1590#1591#0" expanded="false" />
+            <element signature="e#1623#1624#0" expanded="false" />
+            <element signature="e#1675#1676#0" expanded="false" />
+            <element signature="e#1719#1720#0" expanded="false" />
+            <element signature="e#1754#1755#0" expanded="false" />
+            <element signature="e#1785#1786#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1873#1874#0" expanded="false" />
+            <element signature="e#1909#1910#0" expanded="false" />
+            <element signature="e#1941#1942#0" expanded="false" />
+            <element signature="e#1991#1992#0" expanded="false" />
+            <element signature="e#2033#2034#0" expanded="false" />
+            <element signature="e#2069#2070#0" expanded="false" />
+            <element signature="e#2101#2102#0" expanded="false" />
+            <element signature="e#2151#2152#0" expanded="false" />
+            <element signature="e#2193#2194#0" expanded="false" />
+            <element signature="e#2234#2235#0" expanded="false" />
+            <element signature="e#2271#2272#0" expanded="false" />
+            <element signature="e#2331#2332#0" expanded="false" />
+            <element signature="e#2383#2384#0" expanded="false" />
+            <element signature="e#2425#2426#0" expanded="false" />
+            <element signature="e#2463#2464#0" expanded="false" />
+            <element signature="e#2525#2526#0" expanded="false" />
+            <element signature="e#2579#2580#0" expanded="false" />
+            <element signature="e#2619#2620#0" expanded="false" />
+            <element signature="e#2655#2656#0" expanded="false" />
+            <element signature="e#2713#2714#0" expanded="false" />
+            <element signature="e#2763#2764#0" expanded="false" />
+            <element signature="e#2802#2803#0" expanded="false" />
+            <element signature="e#2837#2838#0" expanded="false" />
+            <element signature="e#2893#2894#0" expanded="false" />
+            <element signature="e#2941#2942#0" expanded="false" />
+            <element signature="e#2981#2982#0" expanded="false" />
+            <element signature="e#3017#3018#0" expanded="false" />
+            <element signature="e#3075#3076#0" expanded="false" />
+            <element signature="e#3125#3126#0" expanded="false" />
+            <element signature="e#3164#3165#0" expanded="false" />
+            <element signature="e#3199#3200#0" expanded="false" />
+            <element signature="e#3255#3256#0" expanded="false" />
+            <element signature="e#3303#3304#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.0560346" vertical-offset="70460" max-vertical-offset="94752">
+          <caret line="4201" column="16" selection-start-line="4201" selection-start-column="16" selection-end-line="4201" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/RejectActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2756" max-vertical-offset="5976">
+          <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#997#1018#0" expanded="true" />
+            <element signature="e#7116#7502#0" expanded="true" />
+            <element signature="e#7501#7502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/beginsoft/fpmsapp/LinkQualityActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4699739" vertical-offset="4027" max-vertical-offset="5598">
+          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
+          <folding>
+            <marker date="1433312442971" expanded="true" signature="997:1013" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fpmsApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>thinkandroid-1.1-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+ <!--标题  -->
+<LinearLayout
+        android:id="@+id/title_anno_detail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:background="@drawable/head_bg" >
+        <TextView
+            style="@style/style_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="公告明细" />
+ </LinearLayout>
+
+ <!-- 内容 -->
+<LinearLayout 
+    android:id="@+id/content_anno_detail"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/title_anno_detail"
+    >
+<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+    <TextView android:id="@+id/notice_detail_title"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:singleLine="true"
+		android:gravity="center_horizontal"
+		android:ellipsize="marquee" 
+		android:layout_weight="1"
+		android:textSize="15sp"  />
+        <TextView android:id="@+id/notice_detail_time"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:singleLine="true"
+		android:gravity="center_horizontal"
+		android:ellipsize="marquee" 
+		android:layout_weight="2"
+		android:maxLength="19"
+		android:textSize="12sp"  />
+ </LinearLayout>
+     	<View android:layout_height="1px"
+		     android:background="#000000"
+		      android:layout_width="fill_parent">
+		</View>
+ <LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView android:id="@+id/notice_detail_content"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:singleLine="true"
+		android:gravity="center_horizontal"
+		android:ellipsize="marquee" 
+		android:layout_weight="1"
+		android:textSize="15sp"  />
+</LinearLayout>
+</LinearLayout>   
+</RelativeLayout>

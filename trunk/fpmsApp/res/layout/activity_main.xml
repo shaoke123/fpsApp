@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+ <!--标题  -->
+<LinearLayout
+        android:id="@+id/title_main"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:background="@drawable/head_bg" >
+        <TextView
+            style="@style/style_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="公告栏" />
+ </LinearLayout>
+<LinearLayout android:id="@+id/title_act_main"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/title_main"
+    >
+     		 <EditText
+	            android:id="@+id/notice_date_start"
+	            android:inputType="date"
+	            android:hint="开始时间"
+	            android:layout_weight="1"
+	            android:layout_width="120dp"
+	            android:layout_height="40dp"
+	            android:background="@android:drawable/editbox_background"
+	            />
+	          	<EditText
+	            android:id="@+id/notice_date_end"
+	            android:inputType="date"
+	            android:hint="结束时间"
+	            android:layout_weight="1"
+	            android:layout_width="120dp"
+	            android:layout_height="40dp"
+	            android:background="@android:drawable/editbox_background"
+	            />
+	          	<Button
+		            android:id="@+id/notice_search"
+		            android:layout_weight="1"
+		            android:layout_width="40dp"
+	           		android:layout_height="40dp"
+	           		android:text="搜索"
+		            android:background="@drawable/button_selector"
+		             />
+</LinearLayout>
+<!-- 内容 -->
+<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/title_act_main"
+    >
+    <ListView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/noticeListView"/> 
+</LinearLayout>
+<!-- 底菜单 -->
+ <LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true"
+	>
+   <include layout="@layout/menu_bottom"/>  
+</LinearLayout> 
+</RelativeLayout>

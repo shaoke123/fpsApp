@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false" 
+	android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true"
+	>
+	      <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dip" >
+		    <TextView android:id="@+id/noticeTitle"
+				android:layout_width="match_parent" android:layout_height="match_parent"
+				android:singleLine="true"
+				android:gravity="center_horizontal"
+				android:ellipsize="marquee" 
+				android:textSize="20sp" />
+		    </LinearLayout>
+           	<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="2"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="10dip" >
+		    <TextView android:id="@+id/noticeTime"
+				android:layout_width="match_parent" android:layout_height="match_parent"
+				android:singleLine="true"
+				android:gravity="center_horizontal"
+				android:maxLength="19"
+				android:ellipsize="marquee" 
+				android:textSize="12sp"  />
+		    </LinearLayout>
+		    <TextView android:id="@+id/noticeId"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:visibility="gone" />
+</LinearLayout>
+
+ 

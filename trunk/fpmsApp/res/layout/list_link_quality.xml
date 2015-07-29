@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:baselineAligned="false"
+    android:orientation="horizontal" 
+    >
+
+	<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_allNumber"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="总编号"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_workShop"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:text="车间"
+					android:singleLine="true"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+
+			<LinearLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_flowLine"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="流水线"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_zstatu"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="质检状态"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+			 <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="1dip" >
+
+           	<TextView android:id="@+id/tv_check_proceState"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:singleLine="true"
+				android:text="工序状态"
+				android:gravity="center"
+				android:ellipsize="marquee" />
+           	</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_sofaName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="货物名称"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+		  <TextView android:id="@+id/tv_check_sofaModel"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+			        android:singleLine="true"
+			        android:text="货物型号"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_goodsName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="方向"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_employeeNumber"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="员工编号"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_procePersonName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="人员姓名"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_twoProceNum"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="工序编码"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_twoProceName"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="工序名称"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_proce"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="数量"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+				<LinearLayout
+				
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:orientation="horizontal"
+	            android:padding="1dip" >
+           	
+				<TextView android:id="@+id/tv_check_customerMark"
+					android:layout_width="fill_parent" 
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:text="客户备注"
+					android:gravity="center"
+					android:ellipsize="marquee"/>
+			</LinearLayout>
+
+			<LinearLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="5dp" >
+
+			<Button android:id="@+id/button_ok"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:text="合格"
+				android:background="@drawable/button_selector"/>
+        </LinearLayout>
+        <LinearLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight="1"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="5dp" >
+
+			<Button android:id="@+id/button_reject"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:text="驳回"
+				android:background="@drawable/button_selector"/>
+        </LinearLayout>
+</LinearLayout>
